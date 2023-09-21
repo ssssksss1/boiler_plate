@@ -1,7 +1,7 @@
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
 import { MouseEventHandler, ReactNode, useCallback } from 'react';
-import { animationKeyFrames } from '@/styles/animationKeyFrames';
+import { animationKeyFrames } from '@/styles/Animations';
 import theme from '@/styles/theme';
 
 interface ButtonProps {
